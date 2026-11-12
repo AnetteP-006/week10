@@ -1,0 +1,10 @@
+teacup
+pillow
+poolnoodle
+lego
+barbiedoll
+spoon
+teddybear
+plate
+shoe
+toothbrush
