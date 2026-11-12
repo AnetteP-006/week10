@@ -14,6 +14,10 @@ Hero = load_data(fileHeroes)
 Villain = load_data(fileVillains)
 Weaponhero = load_data(fileweapons)
 Weaponvillain = load_data(fileweapons)
+
+while Weaponhero == Weaponvillain:
+    Weaponhero = load_data(fileweapons)
+
 herohealth = 20
 villainhealth = 20
 
